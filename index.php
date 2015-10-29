@@ -28,18 +28,16 @@
 			<title>Bootstrap Example</title>
 		</head>
 	<body>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<p>Content!</p>
+		<header class="content-header">
+			<nav class="navbar">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="bs-example-navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">Brand</a>
 				</div>
-				<div class="col-md-4">
-					<p>is!</p>
-				</div>
-				<div class="col-md-4">
-					<p>awesome!!!</p>
-				</div>
-			</div>
-		</div>
+			</nav>
+		</header>
 	</body>
 </html>
