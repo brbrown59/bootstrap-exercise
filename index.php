@@ -56,32 +56,28 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="lead-paragraph">This is some content.  It's probably not good content; I'm really just rambling to fill up space.  I mean,
-						I might put a few pictures in other containers just to test them, but this is merely a simple example project
-						and I don't want to go to extreme lengths when bootstrap is already giving me one heck of a challenge.  So,
-						you get these dry ramblings that you probably don't want to read.  Sorry.
-					</p>
+					<h1>Cats are pretty cool animals, and we should all look at more pictures of them</h1>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-3">
-					<p>More meaningless, rambling text that's just here to fill space.  Really though, I should put some images here.</p>
+				<div class="col-md-3 cat-description">
+					<p>How does a cat fit in a coke can?  That is so awesome.</p>
 				</div>
 				<div class="col-md-3">
 					<img src="img/cat-can.gif" alt="Cat in a soda can"/>
 				</div>
-				<div class="col-md-3">
-					<p>Isn't that a cute picture?  Man, cats are awesome.  Let me get another one.</p>
+				<div class="col-md-3 cat-description">
+					<p>Seriously, those kittens are in coffee mugs.  That's adorable.</p>
 				</div>
 				<div class="col-md-3">
 					<img src="img/teacups.jpg" alt="Cats in cups"/>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-6 first-bottom-text">
 					<p>Really, though, I should have thought of some actual content to put here</p>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 second-bottom-text">
 					<p>I mean, the cat pictures are cool and all, but that's not a whole lot of stuff.  Still, though, it is pretty cute</p>
 				</div>
 			</div>
@@ -90,7 +86,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<p>What was supposed to go in the footer?  Eh, forget it.</p>
+						<p>Was anything supposed to be in the footer?  Eh, forget it.</p>
 					</div>
 				</div>
 			</div>

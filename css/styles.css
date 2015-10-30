@@ -4,14 +4,35 @@
 
 }
 
-.lead-paragraph{
-	color: #8B0000;
+body{
 	background-color: #ffdd70;
+}
+
+h1{
+	color: #8B0000;
 	font-size: 2em;
 }
 
+.cat-description{
+	color: #ffdd70;
+	background-color: #8B0000;
+	font-size: 1.5em;
+}
+
+.first-bottom-text{
+	color: #ffdd70;
+	background-color: #000080;
+	font-size: 1.25em;
+}
+
+.second-bottom-text{
+	color: #ffdd70;
+	background-color: #006400;
+	font-size: 1.25em;
+}
+
 .content-footer{
-	color: #B22222;
 	font-style: italic;
+	color: #FFFFFF;
 	background-color: #8B0000;
 }
