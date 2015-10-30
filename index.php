@@ -33,11 +33,14 @@
 		<header class="content-header">
 			<nav class="navbar">
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-					</button>
 					<a class="navbar-brand" href="#">The Example</a>
+				</div>
+				<div class="collapse navbar-collapse">
+					  <ul class="nav navbar-nav navbar-right">
+						  <li><a href="#">Option A</a></li>
+						  <li><a href="#">Option 2</a></li>
+						  <li><a href="#">Moar Cats</a></li>
+					  </ul>
 				</div>
 			</nav>
 		</header>
