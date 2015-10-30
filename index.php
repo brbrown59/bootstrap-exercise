@@ -36,10 +36,19 @@
 					<a class="navbar-brand" href="#">The Example</a>
 				</div>
 				<div class="collapse navbar-collapse">
-					  <ul class="nav navbar-nav navbar-right">
-						  <li><a href="#">Option A</a></li>
-						  <li><a href="#">Option 2</a></li>
-						  <li><a href="#">Moar Cats</a></li>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#">Option A</a></li>
+						<li><a href="#">Option 2</a></li>
+						<li><a href="#">Moar Cats</a></li>
+						<li class="dropdown">
+							<!--don't really know what all of these attributes do-->
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Select a Cat Breed</a>
+							<ul class="dropdown-menu">
+								<li><a href="#">Siamese</a></li>
+								<li><a href="#">Burmese</a></li>
+								<li><a href="#">Russian Blue</a></li>
+								<li><a href="#">LOLcat</a></li>
+						  </ul>
 					  </ul>
 				</div>
 			</nav>
