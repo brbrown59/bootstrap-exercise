@@ -42,7 +42,8 @@
 						<li><a href="#">Moar Cats</a></li>
 						<li class="dropdown">
 							<!--don't really know what all of these attributes do-->
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Select a Cat Breed</a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Select a Cat Breed
+								<span class="caret"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">Siamese</a></li>
 								<li><a href="#">Burmese</a></li>
