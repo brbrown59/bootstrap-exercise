@@ -44,7 +44,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="lead-paragraph">This is some content.  It's robably not good content; I'm really just rambling to fill up space.  I mean,
+					<p class="lead-paragraph">This is some content.  It's probably not good content; I'm really just rambling to fill up space.  I mean,
 						I might put a few pictures in other containers just to test them, but this is merely a simple example project
 						and I don't want to go to extreme lengths when bootstrap is already giving me one heck of a challenge.  So,
 						you get these dry ramblings that you probably don't want to read.  Sorry.
@@ -65,7 +65,24 @@
 					<p>More meaningless, rambling text that's just here to fill space</p>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<p>Really, though, I should have thought of some actual content to put here</p>
+				</div>
+				<div class="col-md-6">
+					<p>Shame: this may have been cool if I'd thought it out</p>
+				</div>
+			</div>
 		</div>
+		<footer class="content-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<p>What was supposed to go in the footer?  Eh, forget it.</p>
+					</div>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>
 
