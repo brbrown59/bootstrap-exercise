@@ -13,7 +13,7 @@
 				integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX"
 				crossorigin="anonymous"/>
 		<!--My CSS-->
-		<link rel="stylesheet" href="/css/styles.css"/>
+		<link rel="stylesheet" href="css/styles.css" type="text/css"/>
 		<!--IE8 crosscompatibility-->
 		<!--[if lt IE 9]>
 		<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
