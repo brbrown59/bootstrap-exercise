@@ -13,7 +13,7 @@
 				integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX"
 				crossorigin="anonymous"/>
 		<!--My CSS-->
-		<link rel="stylesheet" href="/styles.css"/>
+		<link rel="stylesheet" href="/css/styles.css"/>
 		<!--IE8 crosscompatibility-->
 		<!--[if lt IE 9]>
 		<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -53,16 +53,16 @@
 			</div>
 			<div class="row">
 				<div class="col-md-3">
-					<p>More meaningless, rambling text that's just here to fill space</p>
+					<p>More meaningless, rambling text that's just here to fill space.  Really though, I should put some images here.</p>
 				</div>
 				<div class="col-md-3">
-					<p>More meaningless, rambling text that's just here to fill space</p>
+					<img src="img/cat-can.gif" alt="Cat in a soda can"/>
 				</div>
 				<div class="col-md-3">
-					<p>More meaningless, rambling text that's just here to fill space</p>
+					<p>Isn't that a cute picture?  Man, cats are awesome.  Let me get another one.</p>
 				</div>
 				<div class="col-md-3">
-					<p>More meaningless, rambling text that's just here to fill space</p>
+					<img src="img/teacups.jpg" alt="Cats in cups"/>
 				</div>
 			</div>
 			<div class="row">
@@ -70,7 +70,7 @@
 					<p>Really, though, I should have thought of some actual content to put here</p>
 				</div>
 				<div class="col-md-6">
-					<p>Shame: this may have been cool if I'd thought it out</p>
+					<p>I mean, the cat pictures are cool and all, but that's not a whole lot of stuff.  Still, though, it is pretty cute</p>
 				</div>
 			</div>
 		</div>
