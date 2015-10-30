@@ -65,13 +65,13 @@
 					<p>How does a cat fit in a coke can?  That is so awesome.</p>
 				</div>
 				<div class="col-md-3">
-					<img src="img/cat-can.gif" alt="Cat in a soda can"/>
+					<img class="img-responsive img-circle" src="img/cat-can.gif" alt="Cat in a soda can"/>
 				</div>
 				<div class="col-md-3 cat-description">
 					<p>Seriously, those kittens are in coffee mugs.  That's adorable.</p>
 				</div>
 				<div class="col-md-3">
-					<img src="img/teacups.jpg" alt="Cats in cups"/>
+					<img class="img-responsive" src="img/teacups.jpg" alt="Cats in cups"/>
 				</div>
 			</div>
 			<div class="row">
